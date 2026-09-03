@@ -1,11 +1,13 @@
 about:
-  description: A no-frills time tracking toolkit for command line nerds
+  description:
+  |
+    A no-frills time tracking toolkit for command line nerds
   license: MIT
   homepage: https://tools.dhruvs.space/hours
   head: fa04c0d
   archived: false
   latestVersion: v0.6.0
-  collectedAt: 2026-09-03T05:12:46Z
+  collectedAt: 2026-09-03T22:37:08Z
 timeline:
   created: 2024-06-09
   lastCommit: 2026-08-25
@@ -20,7 +22,7 @@ popularity:
   issue: 24
 language:
   Go: 247983
-totalLine: 247983
+totalBytes: 247983
 recent:
   last30d:
     since: 2026-08-04
