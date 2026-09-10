@@ -4,13 +4,25 @@
 
 A no-frills time tracking toolkit for command line nerds
 
-![hours](https://repo.x-cmd.io/hours.svg)
+![hours](https://repo.x-cmd.io/hours.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install hours
 ```
+
+## 代码规模
+
+合计: **8,483** 行代码（覆盖前 5 种语言、共 **80** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 8,157 | 225 | 1,423 | 65 |
+| Json | 140 | 0 | 0 | 6 |
+| Toml | 96 | 0 | 19 | 1 |
+| Yaml | 90 | 0 | 0 | 3 |
+| Markdown | 0 | 458 | 179 | 5 |
 
 ## 源代码
 
@@ -23,7 +35,6 @@ x install hours
 - **最新版本**: `v0.6.0` (2025-08-18)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 7 个
-- **发布时间**: 2025-08-18T16:05:05Z
 
 ## 流行度
 
@@ -38,20 +49,31 @@ x install hours
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 2 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-12 | 0 | 12 | 0 | 0 | 0 | 14 |
 | 90d | 2026-06-12 | 0 | 12 | 2 | 0 | 1 | 15 |
+| last180d | 2026-03-14 | 0 | 26 | 2 | 0 | 1 | 32 |
 | 360d | 2025-09-15 | 0 | 58 | 2 | 0 | 2 | 64 |
+| last720d | 2024-09-20 | 4 | 109 | 4 | 10 | 11 | 133 |
 
-## 代码规模
+## Release 资产
 
-合计: **8,483** 行代码（覆盖前 5 种语言、共 **80** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [hours_0.6.0_checksums.txt](https://github.com/dhth/hours/releases/download/v0.6.0/hours_0.6.0_checksums.txt) | 390 B | `other` |
+| [hours_0.6.0_checksums.txt.pem](https://github.com/dhth/hours/releases/download/v0.6.0/hours_0.6.0_checksums.txt.pem) | 3.0 KiB | `other` |
+| [hours_0.6.0_checksums.txt.sig](https://github.com/dhth/hours/releases/download/v0.6.0/hours_0.6.0_checksums.txt.sig) | 96 B | `other` |
+| [hours_0.6.0_darwin_amd64.tar.gz](https://github.com/dhth/hours/releases/download/v0.6.0/hours_0.6.0_darwin_amd64.tar.gz) | 3.7 MiB | `native/darwin/x64` |
+| [hours_0.6.0_darwin_arm64.tar.gz](https://github.com/dhth/hours/releases/download/v0.6.0/hours_0.6.0_darwin_arm64.tar.gz) | 3.6 MiB | `native/darwin/arm64` |
+| [hours_0.6.0_linux_amd64.tar.gz](https://github.com/dhth/hours/releases/download/v0.6.0/hours_0.6.0_linux_amd64.tar.gz) | 3.7 MiB | `native/linux/x64` |
+| [hours_0.6.0_linux_arm64.tar.gz](https://github.com/dhth/hours/releases/download/v0.6.0/hours_0.6.0_linux_arm64.tar.gz) | 3.4 MiB | `native/linux/arm64` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 8,157 | 225 | 1,423 | 65 |
-| Json | 140 | 0 | 0 | 6 |
-| Toml | 96 | 0 | 19 | 1 |
-| Yaml | 90 | 0 | 0 | 3 |
-| Markdown | 0 | 458 | 179 | 5 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/hours) 上共有 **6** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `0.6.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -62,4 +84,4 @@ hours 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:35:42Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:34:52Z._
