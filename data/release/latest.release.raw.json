@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3847874,
       "digest": "sha256:f4971c92a17919c3a16e77796e41af829736c837f7cf85154f7549d154b998ca",
-      "download_count": 345,
+      "download_count": 348,
       "created_at": "2025-08-18T15:53:08Z",
       "updated_at": "2025-08-18T15:53:10Z",
       "browser_download_url": "https://github.com/dhth/hours/releases/download/v0.6.0/hours_0.6.0_linux_amd64.tar.gz"
