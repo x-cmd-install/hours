@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3723939,
       "digest": "sha256:daf3da450ec8435099b02a57125cd8eed327f25d422fc3ae091d4f4235636fc7",
-      "download_count": 312,
+      "download_count": 315,
       "created_at": "2025-08-18T15:53:08Z",
       "updated_at": "2025-08-18T15:53:10Z",
       "browser_download_url": "https://github.com/dhth/hours/releases/download/v0.6.0/hours_0.6.0_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3847874,
       "digest": "sha256:f4971c92a17919c3a16e77796e41af829736c837f7cf85154f7549d154b998ca",
-      "download_count": 389,
+      "download_count": 394,
       "created_at": "2025-08-18T15:53:08Z",
       "updated_at": "2025-08-18T15:53:10Z",
       "browser_download_url": "https://github.com/dhth/hours/releases/download/v0.6.0/hours_0.6.0_linux_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3610903,
       "digest": "sha256:dceace8bcdab8baec65b38709df688eb35b166ba51f757f67976c08130531c1d",
-      "download_count": 19,
+      "download_count": 23,
       "created_at": "2025-08-18T15:53:08Z",
       "updated_at": "2025-08-18T15:53:10Z",
       "browser_download_url": "https://github.com/dhth/hours/releases/download/v0.6.0/hours_0.6.0_linux_arm64.tar.gz"
