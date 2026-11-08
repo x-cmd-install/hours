@@ -14,15 +14,15 @@ x install hours
 
 ## Code insight
 
-Total: **8,483** lines of code across **80** files in the top 5 languages.
+Total: **8,621** lines of code across **80** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 8,157 | 225 | 1,423 | 65 |
+| Go | 8,295 | 260 | 1,462 | 65 |
 | Json | 140 | 0 | 0 | 6 |
 | Toml | 96 | 0 | 19 | 1 |
 | Yaml | 90 | 0 | 0 | 3 |
-| Markdown | 0 | 458 | 179 | 5 |
+| Markdown | 0 | 462 | 181 | 5 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **8,483** lines of code across **80** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.6.0` (2025-08-18)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-11-07
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 353 · **Forks**: 17 · **Open issues**: 26 · **Contributors**: 4
+- **Stars**: 354 · **Forks**: 17 · **Open issues**: 26 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 120 · **Open PRs**: 6 · **Closed issues**: 12 · **Open issues**: 14 · **Commits**: 179
+- **Releases**: 7 · **Merged PRs**: 121 · **Open PRs**: 6 · **Closed issues**: 13 · **Open issues**: 13 · **Commits**: 180
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 1 | 2 | 0 | 1 | 1 |
-| last60d | 2026-09-08 | 0 | 2 | 2 | 0 | 2 | 4 |
-| 90d | 2026-08-09 | 0 | 4 | 2 | 0 | 2 | 7 |
-| last180d | 2026-05-11 | 0 | 22 | 4 | 0 | 3 | 28 |
-| 360d | 2025-11-12 | 0 | 50 | 4 | 0 | 3 | 57 |
-| last720d | 2024-11-17 | 4 | 111 | 6 | 10 | 12 | 136 |
+| 30d | 2026-10-09 | 0 | 2 | 2 | 1 | 0 | 2 |
+| last60d | 2026-09-09 | 0 | 3 | 2 | 1 | 1 | 3 |
+| 90d | 2026-08-10 | 0 | 5 | 2 | 1 | 1 | 8 |
+| last180d | 2026-05-12 | 0 | 23 | 4 | 1 | 2 | 28 |
+| 360d | 2025-11-13 | 0 | 51 | 4 | 1 | 2 | 57 |
+| last720d | 2024-11-18 | 4 | 112 | 6 | 11 | 11 | 137 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for hours lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:40:54Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:45:49Z._
