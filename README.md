@@ -48,12 +48,12 @@ Total: **8,624** lines of code across **80** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 5 | 1 | 1 | 0 | 5 |
-| last60d | 2026-09-25 | 0 | 6 | 1 | 1 | 0 | 6 |
-| 90d | 2026-08-26 | 0 | 7 | 1 | 1 | 1 | 9 |
-| last180d | 2026-05-28 | 0 | 24 | 3 | 1 | 2 | 29 |
-| 360d | 2025-11-29 | 0 | 54 | 3 | 1 | 2 | 55 |
-| last720d | 2024-12-04 | 4 | 116 | 5 | 10 | 10 | 141 |
+| 30d | 2026-10-26 | 0 | 5 | 1 | 1 | 0 | 5 |
+| last60d | 2026-09-26 | 0 | 6 | 1 | 1 | 0 | 6 |
+| 90d | 2026-08-27 | 0 | 7 | 1 | 1 | 1 | 9 |
+| last180d | 2026-05-29 | 0 | 23 | 3 | 1 | 2 | 29 |
+| 360d | 2025-11-30 | 0 | 53 | 3 | 1 | 2 | 55 |
+| last720d | 2024-12-05 | 4 | 116 | 5 | 10 | 10 | 141 |
 
 ## Release assets
 
@@ -67,14 +67,6 @@ Total: **8,624** lines of code across **80** files in the top 5 languages.
 | [hours_0.6.0_linux_amd64.tar.gz](https://github.com/dhth/hours/releases/download/v0.6.0/hours_0.6.0_linux_amd64.tar.gz) | 3.7 MiB | `native/linux/x64` |
 | [hours_0.6.0_linux_arm64.tar.gz](https://github.com/dhth/hours/releases/download/v0.6.0/hours_0.6.0_linux_arm64.tar.gz) | 3.4 MiB | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/hours). **5** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.6.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for hours lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `hours` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +76,4 @@ Install metadata for hours lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:53:14Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:19:42Z._
